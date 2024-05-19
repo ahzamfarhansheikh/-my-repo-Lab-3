@@ -11,3 +11,6 @@ Divsion formula
 cout<<"a/b ="<<a/b<<endl;
 
 
+
+subtraction formula
+cout<<"a-b ="<<a-b<<endl;
