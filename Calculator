@@ -1,4 +1,16 @@
 cout<<"Ahzam Farhan<<"2023-BT-SE-04";
 
+
+
+
+
+multiplication formula
+cout<<"a*b ="<<a*b<<endl;
+
+Divsion formula
+cout<<"a/b ="<<a/b<<endl;
+
+
+
 subtraction formula
 cout<<"a-b ="<<a-b<<endl;
